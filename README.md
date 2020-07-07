@@ -7,13 +7,13 @@ This project demonstrates how to play musical scales using VBA.
 
 Add the MIDI and note class to a VBA project.
 
-The MIDI class encapsulates all the low level Windows MIDI calls.. 
+The MIDI class encapsulates all the low level Windows MIDI calls.
 
-The Note class handles the logic for playing notes
+The Note class handles the logic for playing notes.
 
-To play musical notes, code should interact with the Note class only.
+To make use of the MIDI funcionality, new code should interact with the Note class only.
 
-A demonstration is included that plays the C Major scale.
+A demonstration is included that plays a C Major scale.
 
 ## Further Info
 
