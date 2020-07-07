@@ -1,7 +1,7 @@
 
-# Excel VBA MIDI Music Scales Project
+# Excel VBA MIDI Music Project
 
-This project demonstrates how to play music scales using VBA.
+This project demonstrates how to play musical scales using VBA.
 
 ## Setup
 
@@ -14,3 +14,7 @@ The Note class handles the logic for playing notes
 To play musical notes, code should interact with the Note class only.
 
 A demonstration is included that plays the C Major scale.
+
+## Further Info
+
+https://datapluscode.com/general/using-excel-vba-midi-play-scales/
