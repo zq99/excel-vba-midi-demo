@@ -17,4 +17,5 @@ A demonstration is included that plays a C Major scale.
 
 ## Further Info
 
-https://datapluscode.com/general/using-excel-vba-midi-play-scales/
+This project : https://datapluscode.com/general/using-excel-vba-midi-play-scales/
+Windows MIDI : https://docs.microsoft.com/en-us/previous-versions/dd798476(v=vs.85)
