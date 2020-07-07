@@ -11,7 +11,7 @@ The MIDI class encapsulates all the low level Windows MIDI calls.
 
 The Note class handles the logic for playing notes.
 
-To make use of the MIDI funcionality, new code should interact with the Note class only.
+To make use of the MIDI functionality, new code should interact with the Note class only.
 
 A demonstration is included that plays a C Major scale.
 
