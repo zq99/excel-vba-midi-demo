@@ -26,4 +26,4 @@ This is how to play a note using the class:
 ## Further Info
 
 - This project : https://datapluscode.com/general/using-excel-vba-midi-play-scales/
-- Windows MIDI : https://docs.microsoft.com/en-us/previous-versions/dd798476(v=vs.85)
+- Windows MIDI : https://docs.microsoft.com/en-us/windows/win32/multimedia/midi-functions?redirectedfrom=MSDN
