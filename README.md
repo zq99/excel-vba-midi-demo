@@ -1,5 +1,5 @@
 
-# Excel VBA MIDI Music Project
+# Excel VBA MIDI Project
 
 This project demonstrates how to play musical scales using VBA.
 
